@@ -1,9 +1,9 @@
 ### Hi there 👋 
 
 I am Vignesh 🧑 (call  me viggy :-P). <br> A Front End Developer who has experience working on but not limited to <br/>
-  1️⃣Javascript  2️⃣React <br/>
-  3️⃣Angular     4️⃣Node <br/>
-  5️⃣HTML/CSS <br/>
+     1️⃣Javascript  2️⃣React <br/>
+     3️⃣Angular     4️⃣Node <br/>
+     5️⃣HTML/CSS <br/>
 I have limited Knoledge of 🧡PostgreSQL 🟡MongoDB 🟩MySQL <br/>
 I am a quick learner 🏃‍ with an analytical mindset ^_^ . This combo is deadly against technical problems 😎.
 
