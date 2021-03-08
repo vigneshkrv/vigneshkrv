@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am Vignesh 🧑 (call  me viggy :-P). <br> A Front End Developer who has experience working on but not limited to <br/>
+I am Vignesh 🧑. <br> A Front End Developer who has experience working on but not limited to <br/>
      &nbsp;1️⃣Javascript &nbsp; 2️⃣React <br/>
      &nbsp;3️⃣Angular  &nbsp;&nbsp; &nbsp;  4️⃣Node <br/>
      &nbsp;5️⃣HTML/CSS <br/><br/>
