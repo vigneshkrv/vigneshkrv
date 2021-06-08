@@ -22,7 +22,7 @@ I am a quick learner 🏃‍ with an analytical mindset ^_^ . This combo is dead
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkrv&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-📫 How to reach me: Vignesh65487@gmail.com
+📫 How to reach me: vigneshkumar23dec@gmail.com
 <!--
 **vigneshkrv/vigneshkrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
