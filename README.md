@@ -16,8 +16,7 @@ I am a quick learner 🏃‍ with an analytical mindset ^_^ . This combo is dead
 <a href="https://github.com/vigneshkrv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshkrv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vignesh's GitHub Stats" />
 </a>
-
-
+&nbsp;
 <a href="https://github.com/vigneshkrv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkrv&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
