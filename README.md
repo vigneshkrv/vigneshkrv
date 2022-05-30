@@ -7,11 +7,12 @@ I am Vignesh 🧑. <br> A Front End Developer who has experience working on but 
 I have limited Knowledge of 🧡PostgreSQL 🟡MongoDB 🟩MySQL <br/>
 I am a quick learner 🏃‍ with an analytical mindset ^_^ . This combo is deadly against technical problems 😎.
 
-🔭 I’m currently working on improving my basics and understand the core of the technologies I am using. <br/>
+🔭 I’m currently working on understanding the core of the technologies I am using. <br/>
 🌱 I’m currently learning: <br/>
     1️⃣ React JS(In-depth) <br/>
     2️⃣ Next JS <br/>
-🥅 I am working towards my goal of becoming a 🧡 Fullstack developer (with multiple stack knowledge) and a 💜 Cloud Architect.
+    3️⃣ Angular <br/>
+🥅 I am working towards my goal of becoming a 🧡 Fullstack developer (with multiple stack knowledge).
 
 <a href="https://github.com/vigneshkrv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshkrv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vignesh's GitHub Stats" />
